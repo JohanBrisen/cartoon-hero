@@ -1,0 +1,29 @@
+h1{
+    font-size: 30px;
+    color: salmon;
+}
+
+h2{
+    font-size: 20px;
+    color: gold;
+}
+
+.big{
+    font-size: 40px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color:dodgerblue;
+}
+
+h1 span{
+    color: violet;
+}
+
+body{
+    background-color: grey;
+}
